@@ -46,18 +46,19 @@ Here are some snapshots of the Power BI dashboard:
 *Provides a high-level summary of total flights, delays, and cancellations, along with key performance rates and top contributing airports.*
 
 ### 2. Delay Overview
-https://github.com/user-attachments/assets/1282c0b6-a295-4c34-80c2-112a4ea1303c
+![delay overview](https://github.com/user-attachments/assets/be5b4747-74b8-4dbc-92a0-80914a33596b)
+
 
 *Focuses on the distribution of delays by their primary causes, offering a quick understanding of the biggest contributors to flight disruptions.*
 
 ### 3. Delay in Details
-![Delay in Details](![delay in details](https://github.com/user-attachments/assets/06a713df-7a8c-44d5-b104-524434c177e4)
-)
+![delay in details](https://github.com/user-attachments/assets/06a713df-7a8c-44d5-b104-524434c177e4)
+
 *Offers a deeper dive into delay causes, allowing for analysis by specific airports and carriers, providing granular insights into operational pain points.*
 
 ### 4. Semantic Model (Star Schema)
-![Semantic Model](![Semantic model](https://github.com/user-attachments/assets/ac8cc865-36a5-47ad-b459-156d5f49fbc9)
-)
+![Semantic model](https://github.com/user-attachments/assets/ac8cc865-36a5-47ad-b459-156d5f49fbc9)
+
 *A visual representation of the underlying star schema data model, showcasing the relationships between fact and dimension tables.*
 
 ---
