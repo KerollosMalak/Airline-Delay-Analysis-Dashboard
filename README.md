@@ -41,9 +41,8 @@ This dataset typically includes monthly summary statistics for U.S. domestic fli
 
 Here are some snapshots of the Power BI dashboard:
 
-### 1. Overview Dashboard
-![Overview Dashboard](![overview](https://github.com/user-attachments/assets/9cc9fa77-11f0-402b-b3de-fba8a7ca15f8)
-)
+### 1. Overview Dashboard(![overview](https://github.com/user-attachments/assets/9cc9fa77-11f0-402b-b3de-fba8a7ca15f8)
+
 *Provides a high-level summary of total flights, delays, and cancellations, along with key performance rates and top contributing airports.*
 
 ### 2. Delay Overview
