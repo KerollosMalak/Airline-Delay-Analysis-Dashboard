@@ -86,8 +86,9 @@ Based on the analysis from this dashboard, several critical insights emerge:
         
 
 **Open the Power BI file:**
-    * Open the downloaded `.pbix` file in Power BI Desktop.
-    * You might need to refresh the data connection if the data files were placed in a different directory than specified in Power Query.
+* Open the downloaded `.pbix` file in Power BI Desktop.
+
+* You might need to refresh the data connection if the data files were placed in a different directory than specified in Power Query.
 
 --
 
