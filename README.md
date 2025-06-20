@@ -80,10 +80,10 @@ Based on the analysis from this dashboard, several critical insights emerge:
 * **Collaborative Efforts:** The interdependence of "Late Aircraft" and "NAS" delays underscores the need for greater collaboration between airlines, airports, and air traffic control to develop holistic solutions for improving punctuality across the aviation network.
 
 ---
-**Download the Power BI Report File (.pbix):**
-    * Due to its large size, the `.pbix` file is hosted on Google Drive.
-    * **Download the Power BI Report Here:** [**[Link to your Google Drive Power BI file]**](https://drive.google.com/drive/folders/1O7U-3OMSH1igK_TnY2vhVYEFNrNI4cqL?usp=drive_link)
-        * 
+##  Download the Power BI Report File (.pbix):
+     * Due to its large size, the `.pbix` file is hosted on Google Drive.
+    ** **Download the Power BI Report Here:** [**[Link to your Google Drive Power BI file]**](https://drive.google.com/drive/folders/1O7U-3OMSH1igK_TnY2vhVYEFNrNI4cqL?usp=drive_link)
+        * *
 
 **Open the Power BI file:**
     * Open the downloaded `.pbix` file in Power BI Desktop.
